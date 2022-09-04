@@ -7,10 +7,12 @@ A simple recipes web page created with HTML during my [Foundations](https://www.
 ## Links
 - [The Odine Project](https://www.theodinproject.com/)
 - [Assignement Link](https://www.theodinproject.com/lessons/foundations-recipes)
-- [Preview Link](link-here)
+- [Preview Link](https://s-verlac.github.io/odin-recipes)
 
 
 ## Screenshots
-![](link-here)
-![](link-here)
-![](link-here)
+![](https://github.com/S-Verlac/odin-recipes/blob/main/images/index.png)
+![](https://github.com/S-Verlac/odin-recipes/blob/main/images/cookies.png)
+![](https://github.com/S-Verlac/odin-recipes/blob/main/images/lasagna.png)
+![](https://github.com/S-Verlac/odin-recipes/blob/main/images/pizza.png)
+![](https://github.com/S-Verlac/odin-recipes/blob/main/images/salad.png)
